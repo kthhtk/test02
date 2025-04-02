@@ -19,7 +19,7 @@ test02/
 │   │   ├── home_page.dart      # 홈 페이지
 │   │   └── result_page.dart    # 결과 페이지
 │   ├── widgets/        # 재사용 가능한 위젯 구성요소
-│   │   ├── best_section.dart   # 홈 페이지의 추천 한복 섹션
+│   │   ├── best_section.dart   # 홈 페이지의 추천 한복 섹션 (select_section 의 확장)
 │   │   ├── generate_section.dart # 한복 생성을 위한 섹션
 │   │   ├── header.dart         # 헤더 위젯
 │   │   ├── home_section.dart   # 홈 페이지 메인 섹션
